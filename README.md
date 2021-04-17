@@ -1,2 +1,2 @@
 # Research
-the thesis of master degree
+It's my thesis of master degree.
